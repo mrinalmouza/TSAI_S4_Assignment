@@ -34,9 +34,9 @@ The model reached and accuracy of 99.28% on test set with loss of 0.01.
 The loss function used here was Crossentropy loss.
 
 ## Model specs
-Total number of trainable model parameters = 593,200
-Total number of non-trainable model parameters = 0
-Model Size = 2.94MB
+* Total number of trainable model parameters = 593,200
+* Total number of non-trainable model parameters = 0
+* Model Size = 2.94MB
 
 ## Authors
 
