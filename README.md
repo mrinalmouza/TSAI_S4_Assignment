@@ -17,12 +17,12 @@ Architecure diagram is below:
 ![alt text](https://github.com/mrinalmouza/TSAI_S4_Assignment/blob/main/MNIST_Model_Architecture.png "Architecure Diagram")
 
 ## Requirements
-matplotlib==3.7.1
-matplotlib-inline==0.1.6
-torch==2.0.1
-torchsummary==1.5.1
-torchvision==0.15.2
-tqdm==4.65.0
+* matplotlib==3.7.1
+* matplotlib-inline==0.1.6
+* torch==2.0.1
+* torchsummary==1.5.1
+* torchvision==0.15.2
+* tqdm==4.65.0
 
 ## Execution
 To run the code, execute the Session_5.ipynb file.
