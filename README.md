@@ -1,5 +1,5 @@
 
-# Handwritten Digit Classifier
+# Handwritten_Digit_Classifier
 
 This is a deep neural network classiifier that uses covolution neural network with 2 FC layers to classify Handwritten digits
 
@@ -9,6 +9,7 @@ MNIST dataset contain gray scale images of size 28 * 28.
 The train data has 60000 images and test has 10000 images.
 
 
+![alt text](https://github.com/mrinalmouza/andwritten_Digit_Classifier/blob/main/output.png "Sample Data")
 
 
 ## Authors
