@@ -11,6 +11,12 @@ Below is the sample data
 
 ![alt text](https://github.com/mrinalmouza/TSAI_S4_Assignment/blob/main/output.png "Sample Data")
 
+## Architecture Diagram
+Architecure diagram is below:
+
+![alt text](https://github.com/mrinalmouza/TSAI_S4_Assignment/blob/main/MNIST_Model_Architecture.png "Architecure Diagram")
+
+
 
 ## Authors
 
