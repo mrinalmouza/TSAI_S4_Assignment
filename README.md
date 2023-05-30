@@ -9,7 +9,7 @@ MNIST dataset contain gray scale images of size 28 * 28.
 The train data has 60000 images and test has 10000 images.
 
 
-![alt text](https://github.com/mrinalmouza/Handwritten_Digit_Classifier/blob/main/output.png "Sample Data")
+![alt text](https://github.com/mrinalmouza/TSAI_S4_Assignment/main/output.png "Sample Data")
 
 
 ## Authors
