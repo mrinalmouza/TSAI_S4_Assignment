@@ -7,9 +7,9 @@ This is a deep neural network classiifier that uses covolution neural network wi
 
 MNIST dataset contain gray scale images of size 28 * 28.
 The train data has 60000 images and test has 10000 images.
+Below is the sample data
 
-
-![alt text](https://github.com/mrinalmouza/TSAI_S4_Assignment/main/output.png "Sample Data")
+![alt text](https://github.com/mrinalmouza/TSAI_S4_Assignment/blob/main/output.png "Sample Data")
 
 
 ## Authors
